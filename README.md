@@ -17,7 +17,7 @@ There are two modes to run in:
 
 ### UI Mode
 
-Play with the UI by running [src/ui.ipynb](/src/ui.ipynb). Press on the board to make your guesses. Press 'S' to skip your turn, 'ESC' to close the window, and 'R' to reload a new game.
+Play with the UI by running [src/ui.ipynb](/src/ui.ipynb). Press on the board to make your guesses. Press 'S' to skip or finish your turn, 'ESC' to close the window, and 'R' to reload a new game.
 
 ### Testing Mode
 
