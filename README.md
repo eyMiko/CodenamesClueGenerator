@@ -1,6 +1,6 @@
 # CodenamesClueGenerator
 
-This project is a clue generator for the popular party game, Codenames. It utilizes various NLP Techniques on the pre-trained FastText model to generate the best clues possible. The tools used were Python, Jupyter Notebook, Gensim, NLTK, PyGame, and more.
+This project is a clue generator for the popular party game, Codenames. It utilizes various NLP Techniques on the pre-trained [FastText](https://fasttext.cc/docs/en/support.html) model to generate the best clues possible. The main tools used were Python, Jupyter Notebook, Gensim, NLTK, PyGame.
 
 ## Initial Set Up
 
@@ -21,4 +21,4 @@ Play with the UI by running [src/ui.ipynb](/src/ui.ipynb). Press on the board to
 
 ### Testing Mode
 
-Test the functionality by running [src/test.ipynb](/src/test.ipynb). This mode will give a very barebones output for easier testing of the implementation.
+Test the functionality by running [src/test.ipynb](/src/test.ipynb). This mode will give a very barebones output for simpler testing of the implementation.
